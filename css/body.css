@@ -33,11 +33,11 @@ body{
 	background-color:orange;
 }
 
-.content{
+.content_lol{
 	display:inline-block;
 	position:relative;
 	float:left;
 	width:100%;
-	height:auto;
+	height:100%;
 	background-color:green;
 }

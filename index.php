@@ -13,10 +13,8 @@
 	<div class="nav_bar">
 	<p> Nav Bar </p>
 	</div>
-	<div class="content">
-	<p> 
-		Hello Bitches 
-	</p>
+	<div class="content_lol">
+		<?php include("author/index.php");?> 
 	</div>
 </body>
 </html>
